@@ -8,6 +8,8 @@
 An intelligent, end-to-end customer complaint intake tool tailored for pharma Quality Management Systems (QMS). Users can paste or upload raw complaint texts, and an advanced AI agent automatically extracts structured fields, classifies risk, drafts a CAPA (Corrective and Preventive Action), and populates a live review form.
 
 **🚀 [Live Demo on Vercel](https://your-project-link.vercel.app)** *(Note: Replace this link with your actual Vercel URL. The Render backend has a ~30-50s cold start if inactive).*
+**🔗 [Backend API on Render](https://your-backend-link.onrender.com)** *(Note: Replace this link with your actual Render URL).*
+**🎥 [Video Demonstration](https://drive.google.com/file/d/1cOSv40KNcTlABgD7tARCcR-KDnNrSR3n/view?usp=drive_link)**
 
 ---
 
